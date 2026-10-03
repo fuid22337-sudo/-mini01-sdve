@@ -1,0 +1,16 @@
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+.vs/
+*.user
+*.suo
+*.userprefs
+*.tmp
+*.log
+*.bak
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.nupkg
+packages/
